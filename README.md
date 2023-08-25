@@ -12,6 +12,10 @@ Select type of project to generate:
 Enter selection (default: basic) [1..4] 2
 ```
 
+# setup
+
 ```bash
 sdk env
+
+./gradlew projects -q
 ```
